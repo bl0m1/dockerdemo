@@ -9,7 +9,7 @@ RUN \
   sudo \
   unzip \
   man-db \
-  curl  \
+  curl
 
 #set workdir and copy .sh
 WORKDIR /rclone
