@@ -3,6 +3,6 @@
 while true
 do
     now=$(date +%s);
-    echo "Curren time is $now."
+    echo "Current time is $now."
     sleep 10
 done
